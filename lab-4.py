@@ -25,5 +25,6 @@ def calculation_all_ans(channel, cell, A,system_name):
     print(f"Percentage market penetration for {system_name} = {percentage_market_penetration} ")
 
 calculation_all_ans(19,394,12,"A")
-calculation_all_ans(57,98,45,"B")
+calculation_all_ans(57,98,45,"B") 
+
 calculation_all_ans(100,49,88,"C")
